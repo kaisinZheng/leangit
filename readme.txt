@@ -1,2 +1,2 @@
-GitHub is a version control system eto.
-Git has been changed
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
